@@ -1,0 +1,1 @@
+<p>Il n'existe pas d'élève à qui attribuer une note, merci de commencer par ajouter un élève</p>
